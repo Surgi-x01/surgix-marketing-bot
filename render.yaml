@@ -1,0 +1,28 @@
+services:
+  - type: web
+    name: surgix-marketing-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: BOT_MODE
+        value: webhook
+      - key: BOT_PORT
+        value: "3000"
+      - key: NODE_ENV
+        value: production
+      - key: TELEGRAM_BOT_TOKEN
+        scope: secret
+      - key: TELEGRAM_CHAT_ID
+        scope: secret
+      - key: ANTHROPIC_API_KEY
+        scope: secret
+      - key: BUFFER_ACCESS_TOKEN
+        scope: secret
+      - key: FIGMA_API_TOKEN
+        scope: secret
+      - key: ASSET_DIR
+        scope: secret
+      - key: COURSE_DIR
+        scope: secret
