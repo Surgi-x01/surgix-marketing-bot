@@ -7,9 +7,7 @@ services:
     startCommand: npm start
     envVars:
       - key: BOT_MODE
-        value: webhook
-      - key: BOT_PORT
-        value: "3000"
+        value: polling
       - key: NODE_ENV
         value: production
       - key: TELEGRAM_BOT_TOKEN
