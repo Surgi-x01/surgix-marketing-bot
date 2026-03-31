@@ -104,8 +104,15 @@ async function startPollingMode(core) {
     core.courseParser
   );
 
-  await telegrafBot.startBot();
-  console.log('✅ Bot is live (polling mode)!\n');
+  try {
+    await telegrafBot.startBot();
+    console.log('✅ Bot is live (polling mode)!\n');
+  } catch (err) {
+    console.error('❌ Failed to start polling mode:', err.message);
+    console.error('Waiting 10 seconds before retry...');
+    await new Promise(resolve => setTimeout(resolve, 10000));
+    return startPollingMode(core);
+  }
 
   showStatus(core);
   return telegrafBot;

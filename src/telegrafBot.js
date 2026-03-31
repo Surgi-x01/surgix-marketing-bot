@@ -199,15 +199,35 @@ Character counts:
 
   async startBot() {
     try {
+      // Try to remove any existing webhook before starting polling
+      try {
+        await this.bot.telegram.deleteWebhook({ drop_pending_updates: false });
+        console.log('✓ Cleaned up old webhook');
+      } catch (webhookErr) {
+        // Webhook might not exist, that's fine
+        console.log('ℹ️  No webhook to clean up');
+      }
+
       await this.bot.launch();
-      console.log('✓ Telegram bot started');
+      console.log('✓ Telegram bot started (polling mode)');
       
       // Graceful shutdown
       process.once('SIGINT', () => this.bot.stop('SIGINT'));
       process.once('SIGTERM', () => this.bot.stop('SIGTERM'));
     } catch (err) {
-      console.error('Failed to start bot:', err);
-      throw err;
+      if (err.code === 409 || err.message?.includes('409') || err.message?.includes('Conflict')) {
+        console.error('⚠️  Token conflict detected (409: another bot instance running)');
+        console.error('   This usually means:');
+        console.error('   1. Old Render/VPS instance still running');
+        console.error('   2. Webhook still registered');
+        console.error('   Retrying in 5 seconds...');
+        
+        // Retry after delay
+        setTimeout(() => this.startBot(), 5000);
+      } else {
+        console.error('❌ Failed to start bot:', err);
+        throw err;
+      }
     }
   }
 
