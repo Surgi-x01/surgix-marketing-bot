@@ -13,16 +13,12 @@ services:
       - key: NODE_ENV
         value: production
       - key: TELEGRAM_BOT_TOKEN
-        scope: secret
+        sync: false
       - key: TELEGRAM_CHAT_ID
-        scope: secret
+        sync: false
       - key: ANTHROPIC_API_KEY
-        scope: secret
+        sync: false
       - key: BUFFER_ACCESS_TOKEN
-        scope: secret
+        sync: false
       - key: FIGMA_API_TOKEN
-        scope: secret
-      - key: ASSET_DIR
-        scope: secret
-      - key: COURSE_DIR
-        scope: secret
+        sync: false
