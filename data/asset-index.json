@@ -1,0 +1,959 @@
+{
+  "assets": [
+    {
+      "id": "1",
+      "filename": "1.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/1.png",
+      "size": 1834694,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "2",
+      "filename": "2.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/2.png",
+      "size": 881116,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "3",
+      "filename": "3.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/3.png",
+      "size": 959704,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "4",
+      "filename": "4.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/4.png",
+      "size": 1591271,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "5",
+      "filename": "5.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/5.png",
+      "size": 670184,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "6",
+      "filename": "6.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/6.png",
+      "size": 660113,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "7",
+      "filename": "7.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/7.png",
+      "size": 708081,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "8",
+      "filename": "8.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/8.png",
+      "size": 304226,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "9",
+      "filename": "9.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/9.png",
+      "size": 719176,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "10",
+      "filename": "10.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/10.png",
+      "size": 349042,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "11",
+      "filename": "11.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/11.png",
+      "size": 684092,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "12",
+      "filename": "12.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/12.png",
+      "size": 669312,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "13",
+      "filename": "13.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/13.png",
+      "size": 651210,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "14",
+      "filename": "14.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/14.png",
+      "size": 651194,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "15",
+      "filename": "15.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/15.png",
+      "size": 616035,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "16",
+      "filename": "16.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/16.png",
+      "size": 637920,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "17",
+      "filename": "17.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/17.png",
+      "size": 607736,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "18",
+      "filename": "18.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/18.png",
+      "size": 608931,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "19",
+      "filename": "19.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/19.png",
+      "size": 604061,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "20",
+      "filename": "20.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/20.png",
+      "size": 558713,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "21",
+      "filename": "21.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/21.png",
+      "size": 428857,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "22",
+      "filename": "22.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/22.png",
+      "size": 558846,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "23",
+      "filename": "23.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/23.png",
+      "size": 522742,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "24",
+      "filename": "24.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/24.png",
+      "size": 522340,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "25",
+      "filename": "25.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/25.png",
+      "size": 495999,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "26",
+      "filename": "26.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/26.png",
+      "size": 517695,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "27",
+      "filename": "27.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/27.png",
+      "size": 515614,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "28",
+      "filename": "28.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/28.png",
+      "size": 512865,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "29",
+      "filename": "29.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/29.png",
+      "size": 385972,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "30",
+      "filename": "30.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/30.png",
+      "size": 895688,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "31",
+      "filename": "31.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/31.png",
+      "size": 776242,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "32",
+      "filename": "32.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/32.png",
+      "size": 938378,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "33",
+      "filename": "33.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/33.png",
+      "size": 930088,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "34",
+      "filename": "34.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/34.png",
+      "size": 1053074,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "35",
+      "filename": "35.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/35.png",
+      "size": 905503,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "36",
+      "filename": "36.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/36.png",
+      "size": 1054113,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "37",
+      "filename": "37.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/37.png",
+      "size": 1124165,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "38",
+      "filename": "38.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/38.png",
+      "size": 753157,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "39",
+      "filename": "39.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/39.png",
+      "size": 274202,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "40",
+      "filename": "40.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/40.png",
+      "size": 268393,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "41",
+      "filename": "41.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/41.png",
+      "size": 862295,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "42",
+      "filename": "42.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/42.png",
+      "size": 791113,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "43",
+      "filename": "43.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/43.png",
+      "size": 2084690,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "44",
+      "filename": "44.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/44.png",
+      "size": 499544,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "45",
+      "filename": "45.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/45.png",
+      "size": 1685013,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "46",
+      "filename": "46.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/46.png",
+      "size": 888466,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "47",
+      "filename": "47.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/47.png",
+      "size": 1648540,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "48",
+      "filename": "48.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/48.png",
+      "size": 1441836,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "49",
+      "filename": "49.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/49.png",
+      "size": 1226823,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "50",
+      "filename": "50.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/50.png",
+      "size": 47213,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "51",
+      "filename": "51.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/51.png",
+      "size": 2587203,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "52",
+      "filename": "52.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/52.png",
+      "size": 2036113,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "53",
+      "filename": "53.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/53.png",
+      "size": 833754,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "54",
+      "filename": "54.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/54.png",
+      "size": 382753,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "55",
+      "filename": "55.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/55.png",
+      "size": 58020,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "56",
+      "filename": "56.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/56.png",
+      "size": 1014408,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "57",
+      "filename": "57.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/57.png",
+      "size": 763489,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "58",
+      "filename": "58.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/58.png",
+      "size": 1531431,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "59",
+      "filename": "59.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/59.png",
+      "size": 1048238,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "60",
+      "filename": "60.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/60.png",
+      "size": 1357963,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "61",
+      "filename": "61.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/61.png",
+      "size": 513179,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    },
+    {
+      "id": "62",
+      "filename": "62.png",
+      "path": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Asset/SURGI X-content/62.png",
+      "size": 1202008,
+      "dimensions": {
+        "width": 1080,
+        "height": 1350,
+        "aspectRatio": "0.80"
+      },
+      "format": "png",
+      "hasAlpha": true,
+      "colorSpace": "srgb",
+      "metadataFallback": true
+    }
+  ],
+  "visualLanguage": {
+    "totalAssets": 62,
+    "dimensions": {
+      "avgWidth": 1080,
+      "avgHeight": 1350,
+      "minWidth": 1080,
+      "maxWidth": 1080,
+      "minHeight": 1350,
+      "maxHeight": 1350
+    },
+    "aspectRatios": {
+      "mostCommon": "0.80",
+      "all": [
+        "0.80"
+      ]
+    },
+    "designLanguage": {
+      "note": "Visual assets appear to be Surgi-X branded designs",
+      "usage": "Marketing materials for surgical education and product promotion",
+      "consistency": "High visual consistency across assets (similar dimensions, format)"
+    }
+  },
+  "colorPalette": [],
+  "layoutPatterns": [],
+  "timestamp": "2026-03-31T08:31:38.707Z"
+}

@@ -24,21 +24,41 @@ async function initializeCore() {
   console.log('🚀 Initializing Surgi-X Marketing Bot...\n');
 
   try {
-    // 1. Index assets
+    // 1. Index assets (or load from cache)
     console.log('📦 Phase 1: Asset Indexing');
-    const assetDir = process.env.ASSET_DIR;
-    const assetIndexer = new AssetIndexer(assetDir);
-    await assetIndexer.indexAllAssets();
-    assetIndexer.saveIndex('./data/asset-index.json');
+    const assetIndexPath = './data/asset-index.json';
+    let assetIndexer;
+    
+    if (fs.existsSync(assetIndexPath)) {
+      console.log('  ✓ Using cached asset index');
+      assetIndexer = new AssetIndexer(process.env.ASSET_DIR || '');
+      const index = JSON.parse(fs.readFileSync(assetIndexPath, 'utf8'));
+      assetIndexer.loadIndex(index);
+    } else {
+      const assetDir = process.env.ASSET_DIR;
+      assetIndexer = new AssetIndexer(assetDir);
+      await assetIndexer.indexAllAssets();
+      assetIndexer.saveIndex(assetIndexPath);
+    }
     console.log(assetIndexer.getVisualLanguageSummary());
     console.log('');
 
-    // 2. Parse course materials
+    // 2. Parse course materials (or load from cache)
     console.log('📚 Phase 2: Course Materials Parsing');
-    const courseDir = process.env.COURSE_DIR;
-    const courseParser = new CourseParser(courseDir);
-    await courseParser.parseAllMaterials();
-    courseParser.saveKnowledgeBase('./data/course-knowledge.json');
+    const courseKnowledgePath = './data/course-knowledge.json';
+    let courseParser;
+    
+    if (fs.existsSync(courseKnowledgePath)) {
+      console.log('  ✓ Using cached course knowledge');
+      courseParser = new CourseParser(process.env.COURSE_DIR || '');
+      const knowledge = JSON.parse(fs.readFileSync(courseKnowledgePath, 'utf8'));
+      courseParser.loadKnowledge(knowledge);
+    } else {
+      const courseDir = process.env.COURSE_DIR;
+      courseParser = new CourseParser(courseDir);
+      await courseParser.parseAllMaterials();
+      courseParser.saveKnowledgeBase(courseKnowledgePath);
+    }
     console.log(courseParser.getKnowledgeSummary());
     console.log('');
 

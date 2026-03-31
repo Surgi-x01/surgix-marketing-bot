@@ -134,6 +134,17 @@ class CourseParser {
 - Total Topics: ${totalTopics}
 - Specialties: ${Object.keys(this.knowledge.specialties).join(', ')}`;
   }
+
+  /**
+   * Load pre-built knowledge base (for cached/production use)
+   */
+  loadKnowledge(knowledgeData) {
+    this.knowledge = {
+      ...knowledgeData,
+      allTopics: new Set(knowledgeData.allTopics || [])
+    };
+    return this;
+  }
 }
 
 module.exports = CourseParser;

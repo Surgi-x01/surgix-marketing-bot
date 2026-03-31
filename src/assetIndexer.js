@@ -170,6 +170,14 @@ class AssetIndexer {
 - Aspect Ratios: ${this.index.visualLanguage.aspectRatios.all.join(', ')}
 - Most Common Ratio: ${this.index.visualLanguage.aspectRatios.mostCommon}`;
   }
+
+  /**
+   * Load pre-built index (for cached/production use)
+   */
+  loadIndex(indexData) {
+    this.index = indexData;
+    return this;
+  }
 }
 
 module.exports = AssetIndexer;

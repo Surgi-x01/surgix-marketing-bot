@@ -202,7 +202,38 @@ await buffer.postContent(content, platforms, scheduleTime);
 npm run dev  # Uses nodemon for auto-restart
 ```
 
-### Production (VPS)
+### Production (Render)
+
+1. **Connect repository to Render:**
+   - Go to [render.com](https://render.com)
+   - Click "New +" → "Web Service"
+   - Connect GitHub repository: `Surgi-x01/surgix-marketing-bot`
+   - Render will auto-detect `render.yaml`
+
+2. **Configure environment variables:**
+   - Render will prompt for secrets (marked `scope: secret` in render.yaml)
+   - Add the following in Render dashboard:
+     - `TELEGRAM_BOT_TOKEN` — Your Telegram bot token
+     - `TELEGRAM_CHAT_ID` — Chat ID for notifications
+     - `ANTHROPIC_API_KEY` — Claude API key
+     - `BUFFER_ACCESS_TOKEN` — Buffer API token
+     - `FIGMA_API_TOKEN` — Figma API token
+     - `ASSET_DIR` — Path to assets (or URL if using cloud storage)
+     - `COURSE_DIR` — Path to course materials
+
+3. **Deploy:**
+   - Render auto-deploys on `main` branch push
+   - Monitor deployment: Render dashboard → Logs
+   - Bot will be live at: `https://<render-app-name>.onrender.com`
+
+4. **Set Telegram webhook:**
+   - After Render deploys, update Telegram webhook to Render URL:
+   ```bash
+   curl -X POST https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook \
+     -d "url=https://<your-render-app>.onrender.com/bot<YOUR_BOT_TOKEN>"
+   ```
+
+### Alternative: Production (VPS)
 
 1. **Install PM2:**
    ```bash

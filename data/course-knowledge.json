@@ -1,0 +1,110 @@
+{
+  "specialties": {
+    "Bariatric Surgery": {
+      "displayName": "Bariatric Surgery",
+      "fileCount": 2,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Bariatric Surgery",
+      "category": "Specialist"
+    },
+    "Basics": {
+      "displayName": "Basics",
+      "fileCount": 11,
+      "topics": [
+        "Advanced techniques deep-dive",
+        "Advanced",
+        "Applied core",
+        "Basic",
+        "Course Asset management sheet",
+        "Foundamentals workshop",
+        "Foundation e-module",
+        "Intermediate",
+        "Introduction to Lap",
+        "iextbookofpracticallaparoscopicsurgery"
+      ],
+      "keywords": [
+        "advanced",
+        "techniques",
+        "deep",
+        "dive",
+        "applied",
+        "core",
+        "basic",
+        "course",
+        "asset",
+        "management",
+        "sheet",
+        "foundamentals",
+        "workshop",
+        "foundation",
+        "module",
+        "intermediate",
+        "introduction",
+        "lap",
+        "iextbookofpracticallaparoscopicsurgery"
+      ],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Basics",
+      "category": "Foundational"
+    },
+    "Colorectal Surgery": {
+      "displayName": "Colorectal Surgery",
+      "fileCount": 3,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Colorectal Surgery",
+      "category": "Specialist"
+    },
+    "Foundamental of MIS": {
+      "displayName": "Foundamental of MIS",
+      "fileCount": 1,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Foundamental of MIS",
+      "category": "Foundational"
+    },
+    "General surgery": {
+      "displayName": "General surgery",
+      "fileCount": 3,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/General surgery",
+      "category": "General"
+    },
+    "Gynecological Surgery": {
+      "displayName": "Gynecological Surgery",
+      "fileCount": 3,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Gynecological Surgery",
+      "category": "Specialist"
+    },
+    "Pediatric Surgery": {
+      "displayName": "Pediatric Surgery",
+      "fileCount": 2,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Pediatric Surgery",
+      "category": "Specialist"
+    },
+    "Thoracic Surgery": {
+      "displayName": "Thoracic Surgery",
+      "fileCount": 2,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Thoracic Surgery",
+      "category": "Specialist"
+    },
+    "Urological Surgery": {
+      "displayName": "Urological Surgery",
+      "fileCount": 3,
+      "topics": [],
+      "keywords": [],
+      "contentPath": "/Users/apple/Library/CloudStorage/Dropbox/Surgi-X/Course materials/Urological Surgery",
+      "category": "Specialist"
+    }
+  },
+  "allTopics": [],
+  "contentTypes": {},
+  "timestamp": "2026-03-31T08:31:42.130Z"
+}
